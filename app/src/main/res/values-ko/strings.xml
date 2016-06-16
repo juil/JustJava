@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">자바 만</string>
+    <string name="error_tooLittle">코피 하나 피로있어요.</string>
+    <string name="error_tooMuch">너무 마너요.</string>
+    <string name="option_chocolate">초코</string>
+    <string name="option_milk">우유</string>
+    <string name="option_sugar">설탕</string>
+    <string name="thanks">감사합니다!</string>
+    <string name="quantity">양</string>
+    <string name="totalPrice">총비용</string>
+    <string name="order_num">주문 #</string>
+    <string name="orderButton">주문</string>
+    <string name="options">선택</string>
+    <string name="option_whippedCream">크림</string>
+    <string name="customer_name">고객</string>
+</resources>

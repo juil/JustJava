@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="totalPrice">TOTAL PRICE</string>
+    <string name="thanks">Thank you!</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="increment" translatable="false">+</string>
+    <string name="decrement" translatable="false">-</string>
+    <string name="options">OPTIONS</string>
+    <string name="option_whippedCream">Whipped Cream</string>
+    <string name="option_milk">Milk</string>
+    <string name="option_sugar">Sugar</string>
+    <string name="option_chocolate">Chocolate</string>
+    <string name="orderButton">ORDER</string>
+
+    <!-- Messages -->
+    <string name="error_tooLittle">Oh silly. You can\'t have 0 coffees in your order.</string>
+    <string name="error_tooMuch">Thanks, but we can\'t keep up with that kind of demand.</string>
+
+    <!-- Email -->
+    <string name="order_num">Order #</string>
+</resources>
